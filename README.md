@@ -22,7 +22,7 @@
 
 # Observações
 
-#### O Jogo foi construido com o intuito de aplicar os conhecimentos passados durante o curso de [GoLang][goCurso-url], caso se interesse no curso; Clique na palavra destacada nesse texto e tenha acesso ao repositório contendo todo conteúdo relevante do curso e com o link direto a plataforma da Rocketseat para ter acesso ao curso diretamente. <3
+#### O Jogo foi construido com o intuito de aplicar os conhecimentos passados durante o curso de [GoLang][goCurso-url], caso se interesse no curso; Clique na palavra destacada nesse texto e tenha acesso ao repositório contendo todo conteúdo relevante do curso e com o link direto a plataforma da Rocketseat para ter acesso ao curso diretamente. ❤
 
 </div>
 
@@ -38,6 +38,10 @@
 git clone https://github.com/RRyanDEV/quiz-game-golang.git
 ```
 
+#### Instale as dependências
+
+[Clique Aqui](https://go.dev/dl/) para fazer o download do Go
+
 ##### Faça o build do projeto
 
 ```bash
@@ -48,6 +52,8 @@ go build
 
 ```bash
 1. Vai ser criado um arquivo .exe na pasta raiz, basta executá-lo!
+#OU
+2. Rode o arquivo executável disponibilizado na pasta do projeto.
 ```
 
 <br />
@@ -63,6 +69,11 @@ go build
 ## Notas de versão
 
 </a>
+
+### v1.0.1-20250617
+
+- Adicionado um arquivo `.exe` para rodar a aplicação sem necessidade de instalar o `Go` na máquina na local.
+- Atualização do README.
 
 ### v1.0.0-20250617
 
