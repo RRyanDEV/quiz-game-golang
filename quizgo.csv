@@ -1,0 +1,5 @@
+Pergunta,Opção 1,Opção 2,Opção 3,Opção 4,Reposta Correta
+Qual dessas linguagens é baseada em C?,Python,Go,SQL,Ruby,2
+Como se declara uma variável em Go de forma curta,"var nome string = ""Go""","nome := ""Go""","let nome = ""Go""","const nome = ""Go""",2
+"Em Go, o que é um ""slice""",Um ponteiro para um array.,Uma função que divide uma string em substrings,"Uma sequência dinâmica de elementos do mesmo tipo, que pode crescer ou encolher.",Um tipo de dado que armazena pares chave-valor.,3
+Qual tipo de dado em Go é usado para representar uma sequência de caracteres (texto)?,bool,int,string,float64,3
