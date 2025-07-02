@@ -30,32 +30,6 @@
 
 [![GoLang][GoLang]][go-url]
 
-## Rodando Localmente
-
-##### Clone o Repositório
-
-```bash
-git clone https://github.com/RRyanDEV/quiz-game-golang.git
-```
-
-#### Instale as dependências
-
-[Clique Aqui](https://go.dev/dl/) para fazer o download do Go
-
-##### Faça o build do projeto
-
-```bash
-go build
-```
-
-##### Executando o projeto
-
-```bash
-1. Vai ser criado um arquivo .exe na pasta raiz, basta executá-lo!
-#OU
-2. Rode o arquivo executável disponibilizado na pasta do projeto.
-```
-
 <br />
 
 # Lista de funcionalidades a serem implementadas.
@@ -69,6 +43,11 @@ go build
 ## Notas de versão
 
 </a>
+
+### v1.0.2-20250701
+
+- Removido o executável que não rodava o jogo de forma correta.
+- Atualização do README.
 
 ### v1.0.1-20250617
 
